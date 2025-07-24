@@ -1,22 +1,22 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "ᴅᴀʀᴋ-ᴋɴɪɢʜᴛ",
+  "description": "Javascript WhatsApp bot made by ᴊᴀɴɪᴛʜ",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "keywords": ["ᴅᴀʀᴋ-ᴋɴɪɢʜᴛ"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "malvin~V69D2byL#PglOc3yiaOnHsDlnn8GVTBJcHOMyQLkIB15273VXA0c",
         "value":"",
         "required": true
         
     },
       "BOT_NAME": {
-        "description": "write here your bot name.",
+        "description": "ᴅᴀʀᴋ-ᴋɴɪɢʜᴛ",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "ᴅᴀʀᴋ-ᴋɴɪɢʜᴛ" 
         
     },
      "PREFIX": {
@@ -27,25 +27,25 @@
     },
       "MODE": {
         "description": "Bot mode can be public, private, inbox or groups in small letters (e.g, public)",
-        "value":"private",
+        "value":"public",
         "required": true  
         
    },
      "DESCRIPTION": {
-      "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "description": "හායි 😁🌸 ලස්සන ලමයෝ",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋ-ᴋɴɪɢʜᴛ*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "description": "94768854852",
+      "value": "94768854852"
       "required": true
       
    },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "ᴊᴀɴɪᴛʜ-ɴɪᴘᴜɴ",
       "value": "",
       "required": true
     }
