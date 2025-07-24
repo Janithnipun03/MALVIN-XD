@@ -1,7 +1,7 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "DARK-KNIGHT",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴊᴀɴɪᴛʜ",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://new-session-x1e9.onrender.com/pair",
@@ -9,22 +9,22 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "description": "malvin~V69D2byL#PglOc3yiaOnHsDlnn8GVTBJcHOMyQLkIB15273VXA0c",
         "value":"",
         "required": true
         
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "94768854852",
       "required": false,
-      "value": "263714757857"
+      "value": "94768854852"
       },
       
     "OWNER_NAME": {
-      "description": "Enter owner name",
+      "description": "ᴊᴀɴɪᴛʜ-ɴɪᴘᴜɴ",
       "required": false,
-      "value": "Malvin King"
+      "value": "ᴊᴀɴɪᴛʜ"
 
     }  
   }
